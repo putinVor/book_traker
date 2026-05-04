@@ -4,8 +4,7 @@ import json
 import os
 
 # ========== GitHub репозиторий ==========
-GITHUB_URL = "https://github.com/putinVor/weather_diary"  # Замените на свой новый репозиторий, если создадите отдельный
-
+GITHUB_URL = "https://github.com/putinVor/book_traker" 
 class BookTracker:
     """
     Приложение "Book Tracker" - Трекер прочитанных книг.
